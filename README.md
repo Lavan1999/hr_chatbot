@@ -64,10 +64,3 @@ Otherwise, the system provides the most relevant FAQ answer(s).
 User: "How many paid leaves do we get?"
 Bot: "Employees are entitled to 12 paid leaves per year."
 
-🔮 Future Improvements
-
-Multi-turn conversations with context memory
-
-Admin panel for uploading FAQs dynamically
-
-Integration with Slack or MS Teams
