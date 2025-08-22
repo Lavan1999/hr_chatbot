@@ -64,3 +64,5 @@ Otherwise, the system provides the most relevant FAQ answer(s).
 User: "How many paid leaves do we get?"
 Bot: "Employees are entitled to 12 paid leaves per year."
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/30b88eb3-2f2c-4e85-8274-173d6fc2f326" />
+
