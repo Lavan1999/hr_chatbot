@@ -35,7 +35,7 @@ Project structure
 
 1. **Clone the repository**  
 
-   git clone https://github.com/your-username/hr_chatbot.git
+   git clone https://github.com/Lavan1999/hr_chatbot.git
    cd hr_chatbot
    python -m venv .venv
 
